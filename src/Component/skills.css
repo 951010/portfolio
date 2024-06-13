@@ -1,0 +1,67 @@
+.mainn {
+    display: flex;
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+
+
+.main1,
+.main2,
+.main3 {
+    background: rgb(34, 34, 70);
+    padding: 10px;
+    margin: 0 1000px;
+    width: 400px;
+    border: rgb(88, 88, 146);
+    border-radius: 20px;
+    height: 320px;
+    align-items: center;
+}
+
+
+.main2 {
+    margin: 0px 70px;
+}
+
+.main2 p {
+    text-align: justify;
+    font-size: 20px;
+    margin: 30px 100px;
+}
+
+.main3 p {
+    text-align: justify;
+    font-size: 20px;
+    margin: 25px 100px;
+}
+
+.main1:hover {
+    background-color: rgb(88, 88, 146);
+}
+
+.main2:hover {
+    background-color: rgb(88, 88, 146);
+}
+
+.main3:hover {
+    background-color: rgb(88, 88, 146);
+}
+
+.heading {
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+.main1 .images {
+    margin: 0 65px;
+}
+
+.mainn img {
+    width: 70px;
+    height: 70px;
+    margin: 10px 25px;
+
+}
